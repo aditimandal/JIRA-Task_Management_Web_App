@@ -1,0 +1,16 @@
+{
+  "name": "task-management",
+  "version": "1.0.0",
+  "description": "Task Management Application",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx http-server -c-1"
+  },
+  "dependencies": {
+    "short-unique-id": "^4.4.4"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+} 
